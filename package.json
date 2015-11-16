@@ -18,7 +18,7 @@
   "dependencies": {
     "node-sass": "~3.4.0",
     "sass-loader": "~3.1.0",
-    "webpack": "~1.12.2",
+    "webpack": "~1.12.2"
   },
   "homepage": "https://github.com/sergesemashko/npm-test-package#readme"
 }
