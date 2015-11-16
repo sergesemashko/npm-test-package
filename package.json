@@ -1,0 +1,24 @@
+{
+  "name": "npm-test-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergesemashko/npm-test-package.git"
+  },
+  "author": "sergesemashko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergesemashko/npm-test-package/issues"
+  },
+  "dependencies": {
+    "node-sass": "~3.4.0",
+    "sass-loader": "~3.1.0",
+    "webpack": "~1.12.2",
+  },
+  "homepage": "https://github.com/sergesemashko/npm-test-package#readme"
+}
